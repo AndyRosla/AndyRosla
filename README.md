@@ -21,7 +21,7 @@ I'm a third-year college student, majoring in Digital Graphic Design. Currently 
 - **Video Games:** Zelda BOTW, Minecraft, Terraria
 - **Tech & More:** Apple, Logitech, Coding
 
-### 🌐 Abilities
+## 🌐 Abilities
 
 - **Skills:** Adaptability, Attention to Detail, Teamwork, Task Management, Problem Solving
 - **Design Expertise:** Experience Design, Interface Design, Wireframing, Prototyping
