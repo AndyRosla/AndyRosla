@@ -13,11 +13,10 @@ I'm a Digital Graphic Design Engineer. Currently based on Tijuana and San Diego,
 - **Ask Me About:** Legos!
 - **Connect:** [Behance](https://www.behance.net/andreafelix1)
 - **Pronouns:** She/Her
-- **Fun Fact:** I'm just 21! ⚡
 
 ## 🎨 More interests
 
-- **Art:** Watercolor Scrap Booking, Drawing
+- **Art:** Photography and Scrap Booking
 - **Video Games:** Zelda BOTW, Minecraft, Terraria
 - **Tech & More:** Apple Enthusiast
 
